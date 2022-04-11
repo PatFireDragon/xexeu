@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "glib.h": "c"
+    },
+
+    "C_Cpp.default.compilerArgs": [
+        "-I include",
+        "-I include/glib"
+    ]
+}
